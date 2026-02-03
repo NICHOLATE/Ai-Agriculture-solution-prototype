@@ -1,6 +1,7 @@
 # AgriNova Lens 🌱
 
 AgriNova Lens is an **AI-powered agriculture solution prototype** designed to help farmers and agronomists detect crop diseases early and accurately. By leveraging advanced machine learning models, AgriNova Lens provides real-time diagnosis, enabling proactive intervention to reduce crop losses and improve yield.
+Live demo visit: https://port-neo-50030742.figma.site/
 
 ---
 
